@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="auth_screen_padding_horizontal">24dp</dimen>
+    <dimen name="auth_screen_padding_vertical">40dp</dimen>
+    <dimen name="auth_brand_icon_size">40dp</dimen>
+    <dimen name="auth_brand_icon_radius">16dp</dimen>
+    <dimen name="auth_header_gap">8dp</dimen>
+    <dimen name="auth_header_margin_bottom">40dp</dimen>
+    <dimen name="auth_title_margin_top">8dp</dimen>
+    <dimen name="auth_form_margin_top">32dp</dimen>
+    <dimen name="auth_field_spacing">16dp</dimen>
+    <dimen name="auth_label_input_spacing">6dp</dimen>
+    <dimen name="auth_input_height">44dp</dimen>
+    <dimen name="auth_input_radius">12dp</dimen>
+    <dimen name="auth_input_padding_horizontal">14dp</dimen>
+    <dimen name="auth_toggle_margin_top">20dp</dimen>
+</resources>

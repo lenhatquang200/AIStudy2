@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="auth_app_title">AI Study Mentor</string>
+    <string name="auth_app_subtitle">Learn with AI anytime</string>
+
+    <string name="auth_login_title">Sign in</string>
+    <string name="auth_login_subtitle">Continue your learning journey.</string>
+    <string name="auth_login_submit">Sign in</string>
+    <string name="auth_login_toggle">Don\'t have an account? Sign up</string>
+
+    <string name="auth_register_title">Create account</string>
+    <string name="auth_register_subtitle">Start saving question history and XP to your account.</string>
+    <string name="auth_register_submit">Sign up</string>
+    <string name="auth_register_toggle">Already have an account? Sign in</string>
+
+    <string name="auth_label_name">Full name</string>
+    <string name="auth_label_email">Email</string>
+    <string name="auth_label_password">Password</string>
+    <string name="auth_hint_name">Your full name</string>
+    <string name="auth_hint_email">you@school.edu</string>
+    <string name="auth_hint_password">At least 6 characters</string>
+    <string name="auth_submit_loading">Processing…</string>
+
+    <string name="auth_error_empty_fields">Please fill in all fields.</string>
+    <string name="auth_error_name_required">Please enter your full name.</string>
+    <string name="auth_error_invalid_email">Please enter a valid email.</string>
+    <string name="auth_error_password_short">Password must be at least 6 characters.</string>
+    <string name="auth_error_email_taken">This email is already registered.</string>
+    <string name="auth_error_invalid_credentials">Invalid email or password.</string>
+    <string name="auth_error_unknown">Something went wrong. Please try again.</string>
+    <string name="auth_success_register">Account created successfully.</string>
+</resources>

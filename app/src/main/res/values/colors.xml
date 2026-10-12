@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="auth_background">#F9FAFC</color>
+    <color name="auth_surface">#F9FAFC</color>
+    <color name="auth_shell_outer">#F4F4F5</color>
+    <color name="auth_foreground">#1C1F28</color>
+    <color name="auth_card">#F2F4F7</color>
+    <color name="auth_muted_foreground">#6E7583</color>
+    <color name="auth_brand">#3B9E74</color>
+    <color name="auth_brand_soft">#1A3B9E74</color>
+    <color name="auth_brand_ring">#4D3B9E74</color>
+    <color name="auth_primary_foreground">#F8FDFA</color>
+    <color name="auth_input_ring">#0D000000</color>
+    <color name="auth_input_ring_focus">#663B9E74</color>
+    <color name="auth_shell_ring">#0D000000</color>
+</resources>
